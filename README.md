@@ -1,2 +1,2 @@
 # jvsnomad
-jvs nomad edition
+jvsnomad nomad edition

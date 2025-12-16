@@ -1,0 +1,15 @@
+{
+  "name": "jvsnomad:illager_native_outpost_badland",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "location": "jvsnomad:illager_native_outpost_badland"
+      },
+      "weight": 1
+    }
+  ]
+}

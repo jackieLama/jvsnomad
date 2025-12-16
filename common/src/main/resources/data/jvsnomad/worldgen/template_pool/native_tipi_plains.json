@@ -1,0 +1,15 @@
+{
+  "name": "jvsnomad:native_tipi_plains",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "location": "jvsnomad:native_tipi_plains"
+      },
+      "weight": 1
+    }
+  ]
+}
