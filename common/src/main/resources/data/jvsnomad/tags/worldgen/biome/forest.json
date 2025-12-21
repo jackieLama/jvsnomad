@@ -2,6 +2,7 @@
   "values": [
     "minecraft:plains",
     "minecraft:meadow",
-    "minecraft:sunflower_plains"
+    "minecraft:forest",
+    "minecraft:birch_forest"
   ]
 }

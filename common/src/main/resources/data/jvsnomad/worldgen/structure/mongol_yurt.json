@@ -1,10 +1,10 @@
 {
   "type": "minecraft:jigsaw",
-  "biomes": "#jvsnomad:badlands",
+  "biomes": "#jvsnomad:windswept",
   "step": "surface_structures",
   "terrain_adaptation": "beard_thin",
   "spawn_overrides": {},
-  "start_pool": "jvsnomad:native_tipi_badland",
+  "start_pool": "jvsnomad:mongol_yurt",
   "size": 7,
   "start_height": {
     "absolute": 0

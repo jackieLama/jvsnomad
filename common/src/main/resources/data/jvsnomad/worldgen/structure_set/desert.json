@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "jvsnomad:berber_camp",
+      "weight": 3
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 70,
+    "separation": 10,
+    "spread_type": "triangular",
+    "salt": 5116484
+  }
+}

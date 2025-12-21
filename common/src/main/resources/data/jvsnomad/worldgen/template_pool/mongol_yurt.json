@@ -1,5 +1,5 @@
 {
-  "name": "jvsnomad:native_camp_badland",
+  "name": "jvsnomad:mongol_yurt",
   "fallback": "minecraft:empty",
   "elements": [
     {
@@ -7,7 +7,7 @@
         "element_type": "minecraft:single_pool_element",
         "processors": "minecraft:empty",
         "projection": "rigid",
-        "location": "jvsnomad:native_camp_badland"
+        "location": "jvsnomad:mongol_yurt"
       },
       "weight": 1
     }

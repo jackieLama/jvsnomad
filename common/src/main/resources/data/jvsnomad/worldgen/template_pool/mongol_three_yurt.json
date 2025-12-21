@@ -1,5 +1,5 @@
 {
-  "name": "jvsnomad:native_tipi_badland",
+  "name": "jvsnomad:mongol_three_yurt",
   "fallback": "minecraft:empty",
   "elements": [
     {
@@ -7,7 +7,7 @@
         "element_type": "minecraft:single_pool_element",
         "processors": "minecraft:empty",
         "projection": "rigid",
-        "location": "jvsnomad:native_tipi_badland"
+        "location": "jvsnomad:mongol_three_yurt"
       },
       "weight": 1
     }

@@ -1,5 +1,5 @@
 {
-  "name": "jvsnomad:illager_native_outpost_badland",
+  "name": "jvsnomad:gypsy_carriage",
   "fallback": "minecraft:empty",
   "elements": [
     {
@@ -7,7 +7,7 @@
         "element_type": "minecraft:single_pool_element",
         "processors": "minecraft:empty",
         "projection": "rigid",
-        "location": "jvsnomad:illager_native_outpost_badland"
+        "location": "jvsnomad:gypsy_carriage"
       },
       "weight": 1
     }
