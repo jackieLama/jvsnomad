@@ -2,11 +2,11 @@
   "structures": [
     {
       "structure": "jvsnomad:mongol_yurt",
-      "weight": 3
+      "weight": 5
     },
       {
           "structure": "jvsnomad:mongol_yurt_animals",
-          "weight": 2
+          "weight": 3
       },
       {
           "structure": "jvsnomad:mongol_three_yurt",
@@ -19,7 +19,7 @@
   ],
   "placement": {
     "type": "minecraft:random_spread",
-    "spacing": 70,
+    "spacing": 130,
     "separation": 10,
     "spread_type": "triangular",
     "salt": 9420

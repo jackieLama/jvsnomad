@@ -2,20 +2,20 @@
   "structures": [
     {
       "structure": "jvsnomad:native_camp_plains",
-      "weight": 2
-    },
-    {
-      "structure": "jvsnomad:native_tipi_plains",
       "weight": 3
     },
     {
+      "structure": "jvsnomad:native_tipi_plains",
+      "weight": 5
+    },
+    {
       "structure": "jvsnomad:illager_native_outpost_plains",
-      "weight": 2
+      "weight": 3
     }
   ],
   "placement": {
     "type": "minecraft:random_spread",
-    "spacing": 70,
+    "spacing": 100,
     "separation": 10,
     "spread_type": "triangular",
     "salt": 991199220
